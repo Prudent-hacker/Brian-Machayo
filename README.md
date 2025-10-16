@@ -41,8 +41,8 @@ Building smart, secure, and data-driven solutions that empower innovation.
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianMachayo&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-brianmachayo.vercel.app/api/top-langs/?username=BrianMachayo&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prudent-hacker&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-brianmachayo.vercel.app/api/top-langs/?username=prudent-hacker&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
