@@ -1,7 +1,7 @@
 <!-- 🧠 Brian Machayo — GitHub Profile README -->
 <h1 align="center">👨‍💻 Brian Machayo</h1>
 <h3 align="center">
-Programmer | Full-Stack & Android Dev | Data Science & AI | Cybersecurity | Analytics
+RED TEAMER | Programmer | Full-Stack developer |AUtomation |AI/ML|
 </h3>
 
 <p align="center">
